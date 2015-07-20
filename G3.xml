@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <project path="device/lge/d855" name="manups4e/android_device_lge_d855" remote="github" revision="M-Preview" />
-<project path="vendor/lge" name="manups4e/proprietary_vendor_lge" remote="github" revision="M-Preview" />
+<project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-12.1" />
 <project path="device/qcom/common" name="manups4e/android_device_qcom_common" remote="github" revision="M-Preview" />
 <project path="device/qcom/sepolicy" name="manups4e/android_device_qcom_sepolicy" remote="github" revision="M-Preview" />
 <project path="android/kernel/lge/g3" name="manups4e/android_kernel_lge_g3" remote="github" revision="M-Preview" />
